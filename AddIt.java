@@ -17,7 +17,7 @@ public class AddIt {
     String total = Integer.toString(add);
 
     System.out.println("Okay, you chose " + strNum1 + " and " + strNum2);
-    System.out.println("I guess added together that would be... hmm...");
+    System.out.println("I guess the result would be... hmm...");
     System.out.println(total);
 
   }
