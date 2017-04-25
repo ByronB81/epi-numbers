@@ -28,7 +28,7 @@ public class ShipIt {
     System.out.println("|       Tax 10% " + tax + "            ");
     System.out.println("|       Total " + total + "             ");
     System.out.println("|                            ");
-    System.out.println("|       Thanks for coming!               ");
+    System.out.println("|      Thanks for coming!               ");
     System.out.println("|                            ");
     System.out.println("+----------------------------+");
 
